@@ -8735,91 +8735,91 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 25,
       "value": "\"LocationInProgress.Text\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 36,
       "value": "\"Location Sharing is in progress...\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
       "kind": "BooleanLiteral",
       "offset": 281,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
       "kind": "FloatLiteral",
       "offset": 361,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
       "kind": "FloatLiteral",
       "offset": 396,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
       "kind": "StringLiteral",
       "offset": 297,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
       "kind": "StringLiteral",
       "offset": 3711,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Utilities\/Constants.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Utilities\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 157,
       "length": 38,
       "value": "\"8f80b262-ed52-4034-99bf-3fd7dbd57b0c\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
       "kind": "Array",
       "offset": 500,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
       "kind": "BooleanLiteral",
       "offset": 535,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 5,
       "value": "\"IOS\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
+      "filePath": "\/Users\/poojatrivedi\/Documents\/Workspace\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
       "kind": "StringLiteral",
       "offset": 1004,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/entitybits\/Library\/Developer\/Xcode\/DerivedData\/MapstedLocationShare-fokafcnnznxveyekwuzwfjuclyde\/Build\/Intermediates.noindex\/MapstedLocationShare.build\/Debug-iphonesimulator\/MapstedLocationShare.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/poojatrivedi\/Library\/Developer\/Xcode\/DerivedData\/MapstedLocationShare-grafcucqgimxpbhgmlypnfndnhza\/Build\/Intermediates.noindex\/MapstedLocationShare.build\/Debug-iphonesimulator\/MapstedLocationShare.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 730,
       "length": 11,
