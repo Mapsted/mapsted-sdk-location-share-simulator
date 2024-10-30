@@ -23,8 +23,8 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "LocationControllerInterface",
-        "printedName": "LocationControllerInterface",
+        "name": "LocationShareControllerInterface",
+        "printedName": "LocationShareControllerInterface",
         "children": [
           {
             "kind": "Function",
@@ -44,11 +44,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP03addc4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
-            "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP03addc4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
+            "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP03addc4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
+            "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP03addc4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
             "moduleName": "MapstedLocationShare",
-            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationControllerInterface>",
-            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationControllerInterface>",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationShareControllerInterface>",
+            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationShareControllerInterface>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -74,11 +74,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP06removec4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
-            "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP06removec4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
+            "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP06removec4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
+            "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP06removec4LiveB14ChangeListener8listeneryAA0cgbI0_p_tF",
             "moduleName": "MapstedLocationShare",
-            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationControllerInterface>",
-            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationControllerInterface>",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationShareControllerInterface>",
+            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationShareControllerInterface>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -136,11 +136,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP05startbC7Updates10propertyId8position10completionySi_So10MNPositionCyAA0c4LiveB8ResponseCSgctF",
-            "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP05startbC7Updates10propertyId8position10completionySi_So10MNPositionCyAA0c4LiveB8ResponseCSgctF",
+            "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP05startbC7Updates10propertyId8position10completionySi_So10MNPositionCyAA0c4LiveB8ResponseCSgctF",
+            "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP05startbC7Updates10propertyId8position10completionySi_So10MNPositionCyAA0c4LiveB8ResponseCSgctF",
             "moduleName": "MapstedLocationShare",
-            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationControllerInterface>",
-            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationControllerInterface>",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationShareControllerInterface>",
+            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationShareControllerInterface>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -160,11 +160,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP04stopbC7UpdatesyyF",
-            "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP04stopbC7UpdatesyyF",
+            "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP04stopbC7UpdatesyyF",
+            "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP04stopbC7UpdatesyyF",
             "moduleName": "MapstedLocationShare",
-            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationControllerInterface>",
-            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationControllerInterface>",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationShareControllerInterface>",
+            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationShareControllerInterface>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -185,11 +185,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP02isc4LiveB7EnabledSbyF",
-            "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP02isc4LiveB7EnabledSbyF",
+            "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP02isc4LiveB7EnabledSbyF",
+            "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP02isc4LiveB7EnabledSbyF",
             "moduleName": "MapstedLocationShare",
-            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationControllerInterface>",
-            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationControllerInterface>",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationShareControllerInterface>",
+            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationShareControllerInterface>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -209,11 +209,11 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP22bringTopBarViewToFrontyyF",
-            "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP22bringTopBarViewToFrontyyF",
+            "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP22bringTopBarViewToFrontyyF",
+            "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP22bringTopBarViewToFrontyyF",
             "moduleName": "MapstedLocationShare",
-            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationControllerInterface>",
-            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationControllerInterface>",
+            "genericSig": "<τ_0_0 where τ_0_0 : MapstedLocationShare.LocationShareControllerInterface>",
+            "sugared_genericSig": "<Self where Self : MapstedLocationShare.LocationShareControllerInterface>",
             "protocolReq": true,
             "declAttributes": [
               "RawDocComment"
@@ -223,8 +223,8 @@
           }
         ],
         "declKind": "Protocol",
-        "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP",
-        "mangledName": "$s20MapstedLocationShare0B19ControllerInterfaceP",
+        "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP",
+        "mangledName": "$s20MapstedLocationShare0bC19ControllerInterfaceP",
         "moduleName": "MapstedLocationShare",
         "declAttributes": [
           "AccessControl"
@@ -920,14 +920,14 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "LocationControllerInterface",
-                "printedName": "MapstedLocationShare.LocationControllerInterface",
-                "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP"
+                "name": "LocationShareControllerInterface",
+                "printedName": "MapstedLocationShare.LocationShareControllerInterface",
+                "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP"
               }
             ],
             "declKind": "Var",
-            "usr": "s:20MapstedLocationShare0bC3ApiC8locationAA0B19ControllerInterface_pvpZ",
-            "mangledName": "$s20MapstedLocationShare0bC3ApiC8locationAA0B19ControllerInterface_pvpZ",
+            "usr": "s:20MapstedLocationShare0bC3ApiC8locationAA0bC19ControllerInterface_pvpZ",
+            "mangledName": "$s20MapstedLocationShare0bC3ApiC8locationAA0bC19ControllerInterface_pvpZ",
             "moduleName": "MapstedLocationShare",
             "static": true,
             "declAttributes": [
@@ -947,14 +947,14 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "LocationControllerInterface",
-                    "printedName": "MapstedLocationShare.LocationControllerInterface",
-                    "usr": "s:20MapstedLocationShare0B19ControllerInterfaceP"
+                    "name": "LocationShareControllerInterface",
+                    "printedName": "MapstedLocationShare.LocationShareControllerInterface",
+                    "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:20MapstedLocationShare0bC3ApiC8locationAA0B19ControllerInterface_pvgZ",
-                "mangledName": "$s20MapstedLocationShare0bC3ApiC8locationAA0B19ControllerInterface_pvgZ",
+                "usr": "s:20MapstedLocationShare0bC3ApiC8locationAA0bC19ControllerInterface_pvgZ",
+                "mangledName": "$s20MapstedLocationShare0bC3ApiC8locationAA0bC19ControllerInterface_pvgZ",
                 "moduleName": "MapstedLocationShare",
                 "static": true,
                 "implicit": true,
