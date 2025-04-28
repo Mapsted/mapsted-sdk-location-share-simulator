@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		nHVWUMYjBcI+vcYTCmptSp5PXhU=
+		vH4EhM09QeDJ4RTe/Dj2V7bdLNY=
 		</data>
 		<key>Headers/MapstedLocationShare-Swift.h</key>
 		<data>
-		Q0TveuAKFLXt55g4H22SCmYmNyQ=
+		uiydbp7v9ERsMkmQ1hoz39K480k=
 		</data>
 		<key>Headers/MapstedLocationShare.h</key>
 		<data>
@@ -18,55 +18,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vzbpbtnVHA5Og7UcCGgaUcp0sWI=
+		HC1ersEdotRugbhTK64//D1t7no=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		xzJ3KF5fD/zZ+xaZKYmZjA1UVgU=
+		wYPlyM6/IprAcioW7YUKfYCGezM=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		QZdrjomrYxumx5tuWVQmVtAYIYo=
+		KbZdrV1QaU5+sJS8qOEk7u1ZLMU=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Tm5E9XZ4Xv36JOl2xIhD6Tormg=
+		KIX7UmYC2JUmVQG+woGyXZLJA2Y=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bRYf193k1iEYD2VQRoK8TiyBMkQ=
+		/0mTPnP2UB3gD1my+1xfxzhUtYE=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ywgthhfPuCbxBmwFnuMmw4z+x2s=
+		HqK0x5lcZshLBd6agly8olUx3RA=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		YjuSEcBppSfjOvbCWLbbfxbBZiA=
+		Cbesbv4XBxZ/ISgujKby1pwlNF4=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		b4AZ6QDEfo/CToAU0MVkTH77RfI=
+		E7ErNtgRisUWqGmcXNtZjnEvXug=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Tm5E9XZ4Xv36JOl2xIhD6Tormg=
+		KIX7UmYC2JUmVQG+woGyXZLJA2Y=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		00WWvYrYe4tpnW6YopqWeBhYCzA=
+		Sjupn6ER9KE0tRkkTd50gLdmtKI=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pAOES1/CYeWAtnRLFJr5Czk61ME=
+		89SHT3ceVwnUfoh+NpY8n7FJMbM=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		TEq9zknbtJeZdFELckCauc3DRwU=
+		eZJz057LZd+6i4jnIaLnF6isJLI=
 		</data>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qiVHNl5ibEK9XqPsp8fbAq8Jb0A=
+		4Ee4gGXGEqE7tJhSdEcvpvonLHY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -248,14 +248,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HyDnKIzS2DYWymdHZTp5LPrnZbKwqj/mSunWuLqUV7A=
+			u9p35gMVS6aKzSDqMIPjuR1fDU4XjlBG21udYFQpj1U=
 			</data>
 		</dict>
 		<key>Headers/MapstedLocationShare-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iC1Att7tP+ukMp3dz4OvtYXZ+cql/pGqY4gliJNXCbE=
+			BLcC7QzI7OzaRpgifPsw9gpZoSmeEIscoquz1J+zkZY=
 			</data>
 		</dict>
 		<key>Headers/MapstedLocationShare.h</key>
@@ -269,84 +269,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SdhmP7rgV9Ivy8/eoDLPfQ/831rr44eImGNoHqykyxE=
+			39liymgrmSXBWRSfx1xih0O37WNzkEL7P4hc6ZVnhXM=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VPHBdzEpUlYxW/DiNu4yWXOJx8TAbn+iKpCefz4lfyw=
+			KcUVv93EfeCY7/30WN5sQD7aKs8NAQKb+7WF890YHmo=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MtoHphENIaz0jrqc8OBGe26Mhh9lHrQPAC/sNLI8hg4=
+			dv6A+NlYziueVsKfawbwScAMu6JimuMnYVKYvM7pSGE=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t2WqGiBp3xmflEYj7YPNjyTNIk1gyJPbQbHpLZ/SzQ8=
+			jqpxjSnnLUwU5f30Fus2bY0W0kZkVD89sJFUK+tcdJs=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Wu9MFFpidgGVuQlbGDVkhi/Zfm4KfnIecH2sYAX5oE=
+			2KNWzzp63FIBJdvCfYLAkY+Y7RnuzozVhyHYJCp+7HM=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nn5pMYzVuMa6Qe+F9SdUry3Kd7Rzo642/UC8Lp+b5wQ=
+			alhjm9D5aGfXLjtmYb2BbxdreAVZyD4Y1cSU/byav6Y=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xah14ZtrB6qBcuHsr/8Si/wNCXliVLK200Vlk/B0HXo=
+			iQckEiRoZ60sfuNPjMTuySXME0W/Nk5KDUr/7UU/iII=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MtoHphENIaz0jrqc8OBGe26Mhh9lHrQPAC/sNLI8hg4=
+			dv6A+NlYziueVsKfawbwScAMu6JimuMnYVKYvM7pSGE=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b05sQ/vBfKa69Z+0xp7f5VhNqrSFX39w4++w/hNAlTg=
+			3a8iDer2Vt/41OETfsfMmXquWBDU6qyynJL9cn+aL7c=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SqnDlv4RGkk+5+RhZIUd2ytM86Xe8URRZi2/G7Sn+qw=
+			cKtxlZAo9Bdw3KSry4JdkEcE8TbXYmLePZfly4DqMs4=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3A4zwDZdt69Z4eESY/8xFBW4hvm59JFUGPLbXrcro9w=
+			StoBImwhYWMRzuWT6DYRcU0oYH6ZAXrIS+5kjDmzrO0=
 			</data>
 		</dict>
 		<key>Modules/MapstedLocationShare.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uVkZpZahrzDZG+YQ1nag0z4/4f50xLuPPe1uB+yrWL4=
+			s5fiKONi3H6JHa0dlgVV5THir7DBBDJ4GpqKtshLxC8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

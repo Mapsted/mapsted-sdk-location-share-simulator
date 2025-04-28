@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "MapstedLocationShare",
+    "printedName": "MapstedLocationShare",
     "children": [
       {
         "kind": "Import",
@@ -39,7 +39,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ShareLiveLocationListener",
-                "printedName": "MapstedLocationShare.ShareLiveLocationListener",
+                "printedName": "any MapstedLocationShare.ShareLiveLocationListener",
                 "usr": "c:@M@MapstedLocationShare@objc(pl)ShareLiveLocationListener"
               }
             ],
@@ -69,7 +69,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "ShareLiveLocationListener",
-                "printedName": "MapstedLocationShare.ShareLiveLocationListener",
+                "printedName": "any MapstedLocationShare.ShareLiveLocationListener",
                 "usr": "c:@M@MapstedLocationShare@objc(pl)ShareLiveLocationListener"
               }
             ],
@@ -228,6 +228,22 @@
         "moduleName": "MapstedLocationShare",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -322,6 +338,22 @@
         "declAttributes": [
           "AccessControl",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -337,7 +369,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "LocationShareInterface",
-                "printedName": "MapstedLocationShare.LocationShareInterface",
+                "printedName": "any MapstedLocationShare.LocationShareInterface",
                 "usr": "s:20MapstedLocationShare0bC9InterfaceP"
               }
             ],
@@ -366,7 +398,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "LocationShareInterface",
-                    "printedName": "MapstedLocationShare.LocationShareInterface",
+                    "printedName": "any MapstedLocationShare.LocationShareInterface",
                     "usr": "s:20MapstedLocationShare0bC9InterfaceP"
                   }
                 ],
@@ -398,7 +430,23 @@
         "spi_group_names": [
           "InternalLocLiveShare"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -464,6 +512,22 @@
           "AccessControl",
           "ObjC",
           "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -804,7 +868,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Decoder",
-                "printedName": "Swift.Decoder",
+                "printedName": "any Swift.Decoder",
                 "usr": "s:s7DecoderP"
               }
             ],
@@ -832,7 +896,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Encoder",
-                "printedName": "Swift.Encoder",
+                "printedName": "any Swift.Encoder",
                 "usr": "s:s7EncoderP"
               }
             ],
@@ -855,6 +919,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -921,7 +999,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "LocationShareControllerInterface",
-                "printedName": "MapstedLocationShare.LocationShareControllerInterface",
+                "printedName": "any MapstedLocationShare.LocationShareControllerInterface",
                 "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP"
               }
             ],
@@ -948,7 +1026,7 @@
                   {
                     "kind": "TypeNominal",
                     "name": "LocationShareControllerInterface",
-                    "printedName": "MapstedLocationShare.LocationShareControllerInterface",
+                    "printedName": "any MapstedLocationShare.LocationShareControllerInterface",
                     "usr": "s:20MapstedLocationShare0bC19ControllerInterfaceP"
                   }
                 ],
@@ -974,7 +1052,23 @@
           "Final",
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -1212,7 +1306,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Decoder",
-                "printedName": "Swift.Decoder",
+                "printedName": "any Swift.Decoder",
                 "usr": "s:s7DecoderP"
               }
             ],
@@ -1240,7 +1334,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Encoder",
-                "printedName": "Swift.Encoder",
+                "printedName": "any Swift.Encoder",
                 "usr": "s:s7EncoderP"
               }
             ],
@@ -1263,6 +1357,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -1401,76 +1509,6 @@
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1677,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1989,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3103,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3351,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3688,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4038,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4286,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4503,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6553,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 6806,
-      "length": 4,
-      "value": "true"
-    },
-    {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 686,
@@ -1518,20 +1556,6 @@
       "offset": 743,
       "length": 3,
       "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 1171,
-      "length": 3,
-      "value": "5.0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
-      "kind": "FloatLiteral",
-      "offset": 1221,
-      "length": 3,
-      "value": "5.0"
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
@@ -1690,415 +1714,9 @@
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
       "kind": "StringLiteral",
-      "offset": 812,
-      "length": 33,
-      "value": "\"application\/json; charset=utf-8\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 867,
-      "length": 14,
-      "value": "\"Content-Type\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 947,
-      "length": 8,
-      "value": "\"apikey\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1021,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1605,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2133,
-      "length": 60,
-      "value": "\"URLSessionManager - requestPostAsync - Context: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2192,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2348,
-      "length": 92,
-      "value": "\"URLSessionManager - requestPostAsync - Key '\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2399,
-      "length": 42,
-      "value": "\"' not found: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2439,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2478,
-      "length": 74,
-      "value": "\"URLSessionManager - requestPostAsync - codingPath: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2551,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2711,
-      "length": 96,
-      "value": "\"URLSessionManager - requestPostAsync - Value '\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2766,
-      "length": 42,
-      "value": "\"' not found: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2806,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2845,
-      "length": 74,
-      "value": "\"URLSessionManager - requestPostAsync - codingPath: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2918,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3077,
-      "length": 93,
-      "value": "\"URLSessionManager - requestPostAsync - Type '\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3130,
-      "length": 41,
-      "value": "\"' mismatch: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3169,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3208,
-      "length": 74,
-      "value": "\"URLSessionManager - requestPostAsync - codingPath: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3281,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3393,
-      "length": 93,
-      "value": "\"URLSessionManager - requestPostAsync - decode response data to json format failed: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3485,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
       "offset": 3711,
       "length": 6,
       "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4134,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4174,
-      "length": 14,
-      "value": "\"Content-Type\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 4254,
-      "length": 8,
-      "value": "\"apikey\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 4869,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5053,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5059,
-      "length": 3,
-      "value": "209"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5185,
-      "length": 67,
-      "value": "\"Error: HTTP response failure with code.\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5251,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5739,
-      "length": 60,
-      "value": "\"URLSessionManager - requestPostAsync - Context: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5798,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 5970,
-      "length": 92,
-      "value": "\"URLSessionManager - requestPostAsync - Key '\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6021,
-      "length": 42,
-      "value": "\"' not found: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6061,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6104,
-      "length": 74,
-      "value": "\"URLSessionManager - requestPostAsync - codingPath: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6177,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6353,
-      "length": 96,
-      "value": "\"URLSessionManager - requestPostAsync - Value '\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6408,
-      "length": 42,
-      "value": "\"' not found: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6448,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6491,
-      "length": 74,
-      "value": "\"URLSessionManager - requestPostAsync - codingPath: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6564,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6739,
-      "length": 93,
-      "value": "\"URLSessionManager - requestPostAsync - Type '\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6792,
-      "length": 41,
-      "value": "\"' mismatch: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6831,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6874,
-      "length": 74,
-      "value": "\"URLSessionManager - requestPostAsync - codingPath: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6947,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7075,
-      "length": 93,
-      "value": "\"URLSessionManager - requestPostAsync - decode response data to json format failed: \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7167,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/LocalizationManager.swift",
-      "kind": "StringLiteral",
-      "offset": 320,
-      "length": 16,
-      "value": "\"AppleLanguages\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/LocalizationManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 394,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/LocalizationManager.swift",
-      "kind": "StringLiteral",
-      "offset": 447,
-      "length": 34,
-      "value": "\"com.mapsted.MapstedLocationShare\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/LocalizationManager.swift",
-      "kind": "StringLiteral",
-      "offset": 525,
-      "length": 7,
-      "value": "\"lproj\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLManager.swift",
-      "kind": "StringLiteral",
-      "offset": 790,
-      "length": 38,
-      "value": "\"https:\/\/public-test.mapsted.com\/api\/\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLManager.swift",
-      "kind": "StringLiteral",
-      "offset": 900,
-      "length": 39,
-      "value": "\"https:\/\/public-stage.mapsted.com\/api\/\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLManager.swift",
-      "kind": "StringLiteral",
-      "offset": 984,
-      "length": 33,
-      "value": "\"https:\/\/public.mapsted.com\/api\/\""
     },
     {
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Utilities\/Constants.swift",
@@ -2132,153 +1750,6 @@
       "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
       "kind": "StringLiteral",
       "offset": 1004,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 440,
-      "length": 22,
-      "value": "\"v1\/shareLiveLocation\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 552,
-      "length": 53,
-      "value": "\"Invalid Request Parameters for shareLiveLocationAPI\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 866,
-      "length": 40,
-      "value": "\"Url - shareLiveLocationAPI - \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 905,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 972,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1157,
-      "length": 55,
-      "value": "\"Share Live Location API failed with error :- \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1211,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1674,
-      "length": 23,
-      "value": "\"v1\/shareLiveLocation\/\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1801,
-      "length": 50,
-      "value": "\"Invalid Request Parameters for updateLocationAPI\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2106,
-      "length": 37,
-      "value": "\"Url - updateLocationAPI - \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2142,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2205,
-      "length": 5,
-      "value": "\"PUT\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2380,
-      "length": 56,
-      "value": "\"Update Live Location API failed with error :- \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2435,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2865,
-      "length": 23,
-      "value": "\"v1\/shareLiveLocation\/\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3013,
-      "length": 37,
-      "value": "\"Url - updateLocationAPI - \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3049,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3112,
-      "length": 8,
-      "value": "\"DELETE\""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "Dictionary",
-      "offset": 3134,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3283,
-      "length": 56,
-      "value": "\"Delete Live Location API failed with error :- \""
-    },
-    {
-      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/ServiceManager.swift",
-      "kind": "StringLiteral",
-      "offset": 3338,
       "length": 2,
       "value": "\"\""
     },
