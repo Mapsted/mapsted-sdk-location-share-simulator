@@ -1474,287 +1474,287 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
       "kind": "StringLiteral",
       "offset": 227,
       "length": 25,
       "value": "\"LocationInProgress.Text\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Translations\/Translations.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 36,
       "value": "\"Location Sharing is in progress...\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
       "kind": "BooleanLiteral",
       "offset": 281,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
       "kind": "FloatLiteral",
       "offset": 361,
       "length": 3,
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareLiveLocationController.swift",
       "kind": "FloatLiteral",
       "offset": 396,
       "length": 3,
       "value": "5.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 686,
       "length": 4,
       "value": "56.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 691,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 705,
       "length": 5,
       "value": "140.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 711,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 724,
       "length": 4,
       "value": "67.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 729,
       "length": 5,
       "value": "255.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 743,
       "length": 3,
       "value": "1.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1375,
       "length": 19,
       "value": "\"ShareLiveLocation\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "StringLiteral",
       "offset": 1546,
       "length": 18,
       "value": "\"SHARELIVE_TOPBAR\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2019,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 2043,
       "length": 4,
       "value": "50.0"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2056,
       "length": 3,
       "value": "230"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2068,
       "length": 2,
       "value": "25"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2377,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2527,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2583,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2686,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2752,
       "length": 3,
       "value": "222"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2756,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2767,
       "length": 3,
       "value": "225"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2771,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2781,
       "length": 3,
       "value": "227"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2785,
       "length": 3,
       "value": "255"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2797,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 2990,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3001,
       "length": 1,
       "value": "5"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 3057,
       "length": 1,
       "value": "8"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/ShareUI\/ShareLiveLocationTopBarViewController.swift",
       "kind": "FloatLiteral",
       "offset": 3113,
       "length": 3,
       "value": "0.5"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
       "kind": "StringLiteral",
       "offset": 297,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/URLSessionManager.swift",
       "kind": "StringLiteral",
       "offset": 3711,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Utilities\/Constants.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Utilities\/Constants.swift",
       "kind": "StringLiteral",
       "offset": 157,
       "length": 38,
       "value": "\"8f80b262-ed52-4034-99bf-3fd7dbd57b0c\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
       "kind": "Array",
       "offset": 500,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/Delegate\/ShareLiveLocationListenerManager.swift",
       "kind": "BooleanLiteral",
       "offset": 535,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 5,
       "value": "\"IOS\""
     },
     {
-      "filePath": "\/Users\/apple\/Documents\/iOS-SDK-Release-6.1.10\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
+      "filePath": "\/Users\/admin\/Desktop\/Mapsted Project\/Release repo(Simu)\/ios-sdk\/ios-sdk-location-share\/MapstedLocationShare\/MapstedLocationShare\/Classes\/WebAPIs\/Models\/ShareLiveLocationRequest.swift",
       "kind": "StringLiteral",
       "offset": 1004,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/apple\/Library\/Developer\/Xcode\/DerivedData\/MapstedLocationShare-dcdcuznkpdnbtdcgkyhkdolmplwn\/Build\/Intermediates.noindex\/MapstedLocationShare.build\/Release-iphonesimulator\/MapstedLocationShare.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "filePath": "\/Users\/admin\/Library\/Developer\/Xcode\/DerivedData\/MapstedLocationShare-ehpuoqfehknzcvcanxryjfvdsljo\/Build\/Intermediates.noindex\/MapstedLocationShare.build\/Release-iphonesimulator\/MapstedLocationShare.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
       "offset": 730,
       "length": 11,
