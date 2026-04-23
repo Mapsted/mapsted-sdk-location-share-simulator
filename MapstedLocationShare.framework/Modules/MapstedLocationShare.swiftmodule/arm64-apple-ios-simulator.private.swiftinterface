@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name MapstedLocationShare
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Osize -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name MapstedLocationShare
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import DeveloperToolsSupport
 import Foundation
 import MapstedCore
@@ -15,7 +15,9 @@ import _SwiftConcurrencyShims
 public protocol LocationShareControllerInterface {
   func addShareLiveLocationChangeListener(listener: any MapstedLocationShare.ShareLiveLocationListener)
   func removeShareLiveLocationChangeListener(listener: any MapstedLocationShare.ShareLiveLocationListener)
+  #if compiler(>=5.3) && $NonescapableTypes
   func startLocationShareUpdates(propertyId: Swift.Int, position: MapstedCore.MNPosition, completion: @escaping (MapstedLocationShare.ShareLiveLocationResponse?) -> ())
+  #endif
   func stopLocationShareUpdates()
   func isShareLiveLocationEnabled() -> Swift.Bool
   func bringTopBarViewToFront()
@@ -36,7 +38,9 @@ public class ShareLiveLocationResponse : Swift.Codable {
   final public let url: Swift.String?
   final public let id: Swift.String?
   final public let error: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(success: Swift.Bool, url: Swift.String?, id: Swift.String?, error: Swift.String?)
+  #endif
   required public init(from decoder: any Swift.Decoder) throws
   public func encode(to encoder: any Swift.Encoder) throws
   @objc deinit
@@ -48,7 +52,9 @@ public class ShareLiveLocationResponse : Swift.Codable {
 public class UpdateLiveLocationResponse : Swift.Codable {
   final public let success: Swift.Bool
   final public let error: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(success: Swift.Bool, error: Swift.String?)
+  #endif
   required public init(from decoder: any Swift.Decoder) throws
   public func encode(to encoder: any Swift.Encoder) throws
   @objc deinit
